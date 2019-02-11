@@ -1,0 +1,6 @@
+{
+    "tenant": "test",
+    "unit": "instana",
+    "apiToken": "<apiToken",
+    "port": "443"
+}
