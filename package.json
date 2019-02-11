@@ -1,0 +1,29 @@
+{
+  "name": "pocsummaryscript",
+  "version": "1.0.0",
+  "description": "Captures key metrics and details from Instana REST API to assist with POC ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instanafieldtools/pocsummaryscript.git"
+  },
+  "keywords": [
+    "instana",
+    "restapi",
+    "poc"
+  ],
+  "author": "hugh.brien@instana.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/instanafieldtools/pocsummaryscript/issues"
+  },
+  "homepage": "https://github.com/instanafieldtools/pocsummaryscript#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}
